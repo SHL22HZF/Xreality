@@ -395,6 +395,7 @@
    "Latest_Launch": "5/24/2011",
    "Power_perf_factor": 69.9913956
  },
+ 
  {
    "Manufacturer": "Chevrolet",
    "Model": "Monte Carlo",
@@ -430,6 +431,24 @@
    "Fuel_efficiency": 25,
    "Latest_Launch": "10/23/2011",
    "Power_perf_factor": 81.11854333
+ },
+  {
+   "Manufacturer": "Chevrolet",
+   "Model": "Cavalier",
+   "Sales_in_thousands": 145.519,
+   "__year_resale_value": 9.25,
+   "Vehicle_type": "Passenger",
+   "Price_in_thousands": 13.26,
+   "Engine_size": 2.2,
+   "Horsepower": 115,
+   "Wheelbase": 104.1,
+   "Width": 67.9,
+   "Length": 180.9,
+   "Curb_weight": 2.676,
+   "Fuel_capacity": 14.3,
+   "Fuel_efficiency": 27,
+   "Latest_Launch": "8/17/2011",
+   "Power_perf_factor": 46.36334747
  },
  {
    "Manufacturer": "Chevrolet",
@@ -649,24 +668,6 @@
  },
  {
    "Manufacturer": "Dodge",
-   "Model": "Avenger",
-   "Sales_in_thousands": 4.734,
-   "__year_resale_value": 12.545,
-   "Vehicle_type": "Passenger",
-   "Price_in_thousands": 19.045,
-   "Engine_size": 2.5,
-   "Horsepower": 163,
-   "Wheelbase": 103.7,
-   "Width": 69.1,
-   "Length": 190.2,
-   "Curb_weight": 2.879,
-   "Fuel_capacity": 15.9,
-   "Fuel_efficiency": 24,
-   "Latest_Launch": "7/1/2012",
-   "Power_perf_factor": 65.65050834
- },
- {
-   "Manufacturer": "Dodge",
    "Model": "Stratus",
    "Sales_in_thousands": 71.186,
    "__year_resale_value": 10.185,
@@ -862,24 +863,6 @@
    "Fuel_efficiency": 24,
    "Latest_Launch": "1/31/2012",
    "Power_perf_factor": 76.50918456
- },
- {
-   "Manufacturer": "Ford",
-   "Model": "Contour",
-   "Sales_in_thousands": 35.068,
-   "__year_resale_value": 8.835,
-   "Vehicle_type": "Passenger",
-   "Price_in_thousands": 17.035,
-   "Engine_size": 2.5,
-   "Horsepower": 170,
-   "Wheelbase": 106.5,
-   "Width": 69.1,
-   "Length": 184.6,
-   "Curb_weight": 2.769,
-   "Fuel_capacity": 15,
-   "Fuel_efficiency": 25,
-   "Latest_Launch": "8/20/2012",
-   "Power_perf_factor": 67.35101072
  },
  {
    "Manufacturer": "Ford",
@@ -1441,6 +1424,24 @@
  },
  {
    "Manufacturer": "Mitsubishi",
+   "Model": "Montero Sport",
+   "Sales_in_thousands": 39.348,
+   "__year_resale_value": 13.88,
+   "Vehicle_type": "Car",
+   "Price_in_thousands": 22.527,
+   "Engine_size": 3,
+   "Horsepower": 173,
+   "Wheelbase": 107.3,
+   "Width": 66.7,
+   "Length": 178.3,
+   "Curb_weight": 3.51,
+   "Fuel_capacity": 19.5,
+   "Fuel_efficiency": 20,
+   "Latest_Launch": "5/18/2012",
+   "Power_perf_factor": 70.66094179
+ },
+ {
+   "Manufacturer": "Mitsubishi",
    "Model": "Eclipse",
    "Sales_in_thousands": 42.541,
    "__year_resale_value": 10.395,
@@ -1456,6 +1457,24 @@
    "Fuel_efficiency": 24,
    "Latest_Launch": "11/24/2012",
    "Power_perf_factor": 62.44196235
+ },
+ {
+   "Manufacturer": "Mitsubishi",
+   "Model": "Galant",
+   "Sales_in_thousands": 55.616,
+   "__year_resale_value": 10.595,
+   "Vehicle_type": "Passenger",
+   "Price_in_thousands": 17.357,
+   "Engine_size": 2.4,
+   "Horsepower": 145,
+   "Wheelbase": 103.7,
+   "Width": 68.5,
+   "Length": 187.8,
+   "Curb_weight": 2.945,
+   "Fuel_capacity": 16.3,
+   "Fuel_efficiency": 25,
+   "Latest_Launch": "1/29/2012",
+   "Power_perf_factor": 58.60677292
  },
  {
    "Manufacturer": "Mitsubishi",
@@ -1546,6 +1565,24 @@
    "Fuel_efficiency": 20,
    "Latest_Launch": "5/18/2012",
    "Power_perf_factor": 70.66094179
+ },
+  {
+   "Manufacturer": "Mitsubishi",
+   "Model": "Mirage",
+   "Sales_in_thousands": 26.232,
+   "__year_resale_value": 8.325,
+   "Vehicle_type": "Passenger",
+   "Price_in_thousands": 13.987,
+   "Engine_size": 1.8,
+   "Horsepower": 113,
+   "Wheelbase": 98.4,
+   "Width": 66.5,
+   "Length": 173.6,
+   "Curb_weight": 2.25,
+   "Fuel_capacity": 13.2,
+   "Fuel_efficiency": 30,
+   "Latest_Launch": "4/23/2012",
+   "Power_perf_factor": 45.83218056
  },
  {
    "Manufacturer": "Mercury",
@@ -1673,24 +1710,7 @@
    "Latest_Launch": "4/24/2011",
    "Power_perf_factor": 78.28073088
  },
- {
-   "Manufacturer": "Mercedes-B",
-   "Model": "E-Class",
-   "Sales_in_thousands": 27.602,
-   "__year_resale_value": 41.45,
-   "Vehicle_type": "Passenger",
-   "Price_in_thousands": 49.9,
-   "Engine_size": 3.2,
-   "Horsepower": 221,
-   "Wheelbase": 111.5,
-   "Width": 70.8,
-   "Length": 189.4,
-   "Curb_weight": 3.823,
-   "Fuel_capacity": 21.1,
-   "Fuel_efficiency": 25,
-   "Latest_Launch": "7/12/2011",
-   "Power_perf_factor": 98.2497375
- },
+ 
  {
    "Manufacturer": "Mercedes-B",
    "Model": "S-Class",
@@ -1783,6 +1803,24 @@
  },
  {
    "Manufacturer": "Mercedes-B",
+   "Model": "E-Class",
+   "Sales_in_thousands": 27.602,
+   "__year_resale_value": 41.45,
+   "Vehicle_type": "Passenger",
+   "Price_in_thousands": 49.9,
+   "Engine_size": 3.2,
+   "Horsepower": 221,
+   "Wheelbase": 111.5,
+   "Width": 70.8,
+   "Length": 189.4,
+   "Curb_weight": 3.823,
+   "Fuel_capacity": 21.1,
+   "Fuel_efficiency": 25,
+   "Latest_Launch": "7/12/2011",
+   "Power_perf_factor": 98.2497375
+ },
+ {
+   "Manufacturer": "Mercedes-B",
    "Model": "CL500",
    "Sales_in_thousands": 0.954,
    "__year_resale_value": null,
@@ -1816,6 +1854,24 @@
    "Fuel_efficiency": 20,
    "Latest_Launch": "2/10/2011",
    "Power_perf_factor": 90.49553213
+ },
+ {
+   "Manufacturer": "Mercedes-B",
+   "Model": "E-Class",
+   "Sales_in_thousands": 27.602,
+   "__year_resale_value": 41.45,
+   "Vehicle_type": "Passenger",
+   "Price_in_thousands": 49.9,
+   "Engine_size": 3.2,
+   "Horsepower": 221,
+   "Wheelbase": 111.5,
+   "Width": 70.8,
+   "Length": 189.4,
+   "Curb_weight": 3.823,
+   "Fuel_capacity": 21.1,
+   "Fuel_efficiency": 25,
+   "Latest_Launch": "7/12/2011",
+   "Power_perf_factor": 98.2497375
  },
  {
    "Manufacturer": "Nissan",
@@ -2536,6 +2592,24 @@
    "Fuel_efficiency": 23,
    "Latest_Launch": "8/1/2011",
    "Power_perf_factor": 55.29711658
+ },
+ {
+   "Manufacturer": "Toyota",
+   "Model": "Corolla",
+   "Sales_in_thousands": 142.535,
+   "__year_resale_value": 10.025,
+   "Vehicle_type": "Passenger",
+   "Price_in_thousands": 13.108,
+   "Engine_size": 1.8,
+   "Horsepower": 120,
+   "Wheelbase": 97,
+   "Width": 66.7,
+   "Length": 174,
+   "Curb_weight": 2.42,
+   "Fuel_capacity": 13.2,
+   "Fuel_efficiency": 33,
+   "Latest_Launch": "4/11/2011",
+   "Power_perf_factor": 47.96897242
  },
  {
    "Manufacturer": "Toyota",

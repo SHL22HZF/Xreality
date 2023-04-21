@@ -9,9 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "aframe": "^1.4.1",
     "aframe-event-set-component": "^5.0.0",
+    "d3": "^7.8.4",
+    "d3-tip": "^0.9.1",
+    "d3-v6-tip": "^1.0.9",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-toastify": "^9.1.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
