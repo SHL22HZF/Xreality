@@ -5,6 +5,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Label from "./Label";
 import Axis from "./Axis";
+import Text from "./Text";
 
 
 function App() {
@@ -37,10 +38,11 @@ function App() {
   }, []);
 
 const tooltip = (value) => {
+  const final = "$"+ Math.floor(value) + ",000"
   const el = document.createElement("a-text");
   el.setAttribute("id", "tooltip");
   el.setAttribute("position", "0 18 -1");
-  el.setAttribute("value", value);
+  el.setAttribute("value", final);
   el.setAttribute("align", "center");
   el.setAttribute("width", "3");
   el.setAttribute("height", "3");
@@ -143,18 +145,14 @@ const removeToolTip = () => {
                 item
               )} -8.5; end: 13.5 ${heightScale(item)} 8.5; color: lightblue`}
             ></a-entity>
-            <a-text
+            <Text
               value={item}
-              position={`13.8 ${heightScale(item)} 8.5`}
-              color="blue"
-              scale="3 3 3"
-            ></a-text>
-            <a-text
+              position={`13.8 ${heightScale(item)} 8.5`}  
+            />
+            <Text
               value={item}
               position={`-10.8 ${heightScale(item)} -8.5`}
-              color="blue"
-              scale="3 3 3"
-            ></a-text>
+            />
           </a-entity>
         ))}
 
@@ -169,7 +167,7 @@ const removeToolTip = () => {
           camera=""
           look-controls=""
           wasd-controls=""
-          orbit-controls="target: 0 1.6 -0.5; minDistance: 0.5; maxDistance: 180; initialPosition: 0 45 30"
+          orbit-controls="target: 0 1.6 -0.5; minDistance: 0.5; maxDistance: 180; initialPosition: 0 40 10"
           cursor-listener="true"
           emitevents="true"
           cursor="rayOrigin: mouse"
