@@ -60,7 +60,7 @@ const removeToolTip = () => {
   scene.removeChild(el);
 };
 
-  const heightScale = d3.scaleLinear().domain([0, 550]).range([0, 17 ]);
+  const heightScale = d3.scaleLinear().domain([0, 550]).range([0, 19 ]);
   const baseY = 0;
   const tickValues = heightScale.ticks(10);
 
@@ -101,10 +101,10 @@ const removeToolTip = () => {
 
   useEffect(() => {
     if (toyotaData.length > 0) {
-      setObject(toyotaRef.current, toyotaData, "2", "blue");
+      setObject(toyotaRef.current, toyotaData, "2", "lightblue");
     }
     if (fordData.length > 0) {
-      setObject(fordRef.current, fordData, "-7", "red");
+      setObject(fordRef.current, fordData, "-7", "blue");
     }
     if (dodgeData.length > 0) {
       setObject(dodgeRef.current, dodgeData, "-4", "yellow");
